@@ -1,0 +1,14 @@
+G:\Repos\ToDoConsole\ToDoConsole\bin\Debug\net8.0\ToDoConsole.exe
+G:\Repos\ToDoConsole\ToDoConsole\bin\Debug\net8.0\ToDoConsole.deps.json
+G:\Repos\ToDoConsole\ToDoConsole\bin\Debug\net8.0\ToDoConsole.runtimeconfig.json
+G:\Repos\ToDoConsole\ToDoConsole\bin\Debug\net8.0\ToDoConsole.dll
+G:\Repos\ToDoConsole\ToDoConsole\bin\Debug\net8.0\ToDoConsole.pdb
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\ToDoConsole.GeneratedMSBuildEditorConfig.editorconfig
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\ToDoConsole.AssemblyInfoInputs.cache
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\ToDoConsole.AssemblyInfo.cs
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\ToDoConsole.csproj.CoreCompileInputs.cache
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\ToDoConsole.dll
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\refint\ToDoConsole.dll
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\ToDoConsole.pdb
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\ToDoConsole.genruntimeconfig.cache
+G:\Repos\ToDoConsole\ToDoConsole\obj\Debug\net8.0\ref\ToDoConsole.dll
