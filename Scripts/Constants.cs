@@ -1,4 +1,4 @@
-﻿namespace ToDoConsole;
+﻿namespace ToDoConsole.Scripts;
 
 public static class Constants
 {

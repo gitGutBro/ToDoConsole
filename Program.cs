@@ -1,3 +1,5 @@
-﻿ToDoTasksManager toDoTasksManager = new(new ToDoTasksService(new ToDoTasksDisplayer()));
+﻿using ToDoConsole.Scripts;
+
+ToDoTasksManager toDoTasksManager = new(new ToDoTasksService(new ToDoTasksDisplayer()));
 
 toDoTasksManager.Work();
