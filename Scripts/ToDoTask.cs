@@ -12,8 +12,7 @@ internal class ToDoTask
             ?? string.Empty;
         IsCompleted = false;
 
-        Id = _idSequence;
-        _idSequence++;
+        Id = Interlocked.Increment(ref _idSequence);
     }
 
     public int Id { get; private set; }
